@@ -1,12 +1,12 @@
 # IssueReportBOT
-Line BOT for reporting problem
+Line BOT for reporting problem <br>
 
-For Runing on Windows
-1.Open 2 cmd windows
-2.The first cmd window:
-  - double click run_ngrok.bat
+For Runing on Windows<br>
+1.Open 2 cmd windows<br>
+2.The first cmd window:<br>
+  - double click run_ngrok.bat<br>
 
-3.The second cmd window:
-  - activate LineBOT
-  - python updateWebhook.py
-  - python app.py
+3.The second cmd window:<br>
+  - activate LineBOT<br>
+  - python updateWebhook.py<br>
+  - python app.py<br>
